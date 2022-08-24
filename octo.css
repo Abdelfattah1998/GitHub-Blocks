@@ -1,4 +1,4 @@
-.basic{
+..basic{
     height: 600px;
     width: 500px;
     background-color: #eaeaff;
@@ -16,19 +16,7 @@
     justify-content:space-between ;
     margin: 10px;
 }
-.second{
-    width: 100%;
+#second{
     background-color: plum;
-    display: flex;
-    align-items: flex-start;
     justify-content:space-evenly ;
-    margin: 10px;
-}
-.third{
-    width: 100%;
-    background-color: white;
-    display: flex;
-    align-items: flex-start;
-    justify-content:space-evenly ;
-    margin: 10px;
 }
